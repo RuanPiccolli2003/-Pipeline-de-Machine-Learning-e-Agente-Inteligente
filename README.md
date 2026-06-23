@@ -36,17 +36,13 @@ Acesse a aplicação pelo navegador no endereço: `http://localhost:5000`
 
 Durante os 15 dias de desenvolvimento do projeto, os integrantes da equipe colaboraram nas seguintes atividades. *(Por favor, preencham com os nomes e descrições detalhadas do que cada integrante fez)*.
 
-### Integrante 1: [Nome do Integrante]
-* **Dia 1-5:** [Descrever o que foi feito, ex: Exploração inicial dos dados e limpeza.]
-* **Dia 6-10:** [Descrever o que foi feito, ex: Implementação do sub-sampling e treinamento dos modelos de ML.]
-* **Dia 11-15:** [Descrever o que foi feito, ex: Criação dos slides e revisão do relatório técnico.]
+### Integrante 1: [Fernando Gonçalves]
+* **Dia 1-5:** [Exploração inicial dos dados e limpeza.]
+* **Dia 6-10:** [Implementação do sub-sampling e treinamento dos modelos de ML.]
+* **Dia 11-15:** [revisão do relatório técnico.]
 
-### Integrante 2: [Nome do Integrante]
-* **Dia 1-5:** [Descrever o que foi feito, ex: Pesquisa e configuração do ambiente Flask e templates HTML.]
-* **Dia 6-10:** [Descrever o que foi feito, ex: Integração com a API do HuggingFace para o Agente LLM.]
-* **Dia 11-15:** [Descrever o que foi feito, ex: Ajustes na interface web e testes de ponta a ponta da aplicação.]
+### Integrante 2: [Ruan Carlos]
+* **Dia 1-5:** [Pesquisa e configuração do ambiente Flask e templates HTML.]
+* **Dia 6-10:** [Integração com a API do HuggingFace para o Agente LLM.]
+* **Dia 11-15:** [Ajustes na interface web e testes de ponta a ponta da aplicação.]
 
-### Integrante 3: [Nome do Integrante] (Se houver)
-* **Dia 1-5:** [Descrever o que foi feito...]
-* **Dia 6-10:** [Descrever o que foi feito...]
-* **Dia 11-15:** [Descrever o que foi feito...]
