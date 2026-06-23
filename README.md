@@ -4,6 +4,15 @@ Este repositório contém a solução final do projeto de detecção de fraudes 
 
 ## 🛠️ Como rodar o projeto
 
+OBS: Caso queira rodar a aplicação utilizando docker, siga estes passos a seguir
+
+1 - Baixe o arquivo imagem-fraude.tar
+
+2 - Execute no terminal o comando "docker load -i imagem-fraude.tar" e em seguida "docker run -d -p 5000:5000 detector-fraude"
+
+3 - Abra o navegador em http://localhost:5000
+
+
 ### 1. Requisitos
 Certifique-se de ter o Python 3.8+ instalado. Instale as dependências necessárias (recomendamos o uso de um ambiente virtual):
 
